@@ -4,12 +4,13 @@ Hello,
 This is my submission for the Insight Data Engineering Coding Challenge. Thank you for this opporutnity and hopefully you like what I have provided for you.
 
 The software enclosed was programmed using Python and a python3 interpreter. It requires the following dependencies to be installed.
-These 5 packages should be found by doing a pip or conda install.
-numpy
-re
-datetime
-calendar
-pybloom_live
+These 6 packages should be found by doing a pip or conda install:
+1. numpy
+2. re
+3. os
+4. datetime
+5. calendar
+6. pybloom_live
 
 This code should be able to be run from the run.sh script. Please do not hesitate to contact me with any questions.
 
