@@ -3,7 +3,7 @@ Hello,
 
 This is my submission for the Insight Data Engineering Coding Challenge. Thank you for this opporutnity and hopefully you like what I have provided for you.
 
-The software enclosed was programmed using Python and a python3 interpreter. It requires the following dependencies to be installed.
+The software enclosed was programmed using Python. It requires the following dependencies to be installed.
 These 6 packages should be found by doing a pip or conda install:
 1. numpy
 2. re
